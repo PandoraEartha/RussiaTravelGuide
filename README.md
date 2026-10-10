@@ -10,6 +10,7 @@
     - [前往 Leningradsky railway terminal 乘坐22:00前往圣彼得堡的火车](#前往-leningradsky-railway-terminal-乘坐2200前往圣彼得堡的火车)
   - [10.3 周六, 圣彼得堡, 住圣彼得堡](#103-周六-圣彼得堡-住圣彼得堡)
     - [05:20 左右抵达 Sankt-Peterburg-Glavny Station](#0520-左右抵达-sankt-peterburg-glavny-station)
+    - [Flag of the Union of Soviet Socialist Republics](#flag-of-the-union-of-soviet-socialist-republics)
     - [阿芙乐尔号巡洋舰, Cruiser Aurora](#阿芙乐尔号巡洋舰-cruiser-aurora)
     - [Троицко-Петровский сквер](#троицко-петровский-сквер)
     - [10:00前到达彼得保罗要塞, Peter and Paul Cathedral](#1000前到达彼得保罗要塞-peter-and-paul-cathedral)
@@ -47,7 +48,6 @@
     - [GUM](#gum)
     - [Aviapark](#aviapark)
     - [18:00 前往 Sheremetyevo international airport, terminal C, SVO](#1800-前往-sheremetyevo-international-airport-terminal-c-svo)
-
 # 行前准备
 
 ✅️ 护照(有效期大于6个月)
@@ -138,6 +138,10 @@ SVO到市区的1195路车可以买双程票
 ### 05:20 左右抵达 [Sankt-Peterburg-Glavny Station](https://yandex.com/maps/-/CXAgfIP4)
 
 &nbsp;&nbsp;&nbsp;&nbsp;圣彼得堡主要铁路枢纽之一，通常简称莫斯科火车站，是往返莫斯科与圣彼得堡的重要到达/出发站。
+
+### Flag of the Union of Soviet Socialist Republics
+
+&nbsp;&nbsp;&nbsp;&nbsp;苏联旗帜, 可看芬兰湾和欧洲最高楼
 
 ### 阿芙乐尔号巡洋舰, [Cruiser Aurora](https://yandex.com/maps/-/CXENQHPQ)
 
@@ -291,9 +295,9 @@ SVO到市区的1195路车可以买双程票
 
 ### [Aviapark](https://yandex.com/maps/-/CXUdn208)
 
-&nbsp;&nbsp;&nbsp;&nbsp;莫斯科大型购物中心之一，核心看点是巨型圆柱水族箱，适合购物、餐饮和雨天室内活动。
+&nbsp;&nbsp;&nbsp;&nbsp;莫斯科大型购物中心之一, 欧洲最大的购物商场，核心看点是巨型圆柱水族箱，适合购物、餐饮和雨天室内活动。
 
-&nbsp;&nbsp;&nbsp;&nbsp;核心看点是欧洲最大的水族箱
+&nbsp;&nbsp;&nbsp;&nbsp;核心看点是欧洲最大的水族箱, 世界上最大的环形水族箱
 
 ### 18:00 前往 [Sheremetyevo international airport, terminal C, SVO](https://yandex.com/maps/-/CXUhuP5~)
 
