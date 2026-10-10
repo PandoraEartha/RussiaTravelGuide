@@ -27,18 +27,15 @@
     - [8:30 前到达叶卡捷琳娜公园, Catherine Park](#830-前到达叶卡捷琳娜公园-catherine-park)
     - [斯莫尼主教座堂, Smolny cathedral](#斯莫尼主教座堂-smolny-cathedral)
     - [🎫 滴血大教堂, Cathedral of the Resurrection of Christ Saved on Blood](#-滴血大教堂-cathedral-of-the-resurrection-of-christ-saved-on-blood)
-    - [🎫 14:00前到达俄罗斯国立博物馆, Mikhaylovskiy Palace](#-1400前到达俄罗斯国立博物馆-mikhaylovskiy-palace)
     - [米哈伊洛夫斯基花园, Михайловский сад](#米哈伊洛夫斯基花园-михайловский-сад)
+    - [🎫 14:30前到达俄罗斯国立博物馆, Mikhaylovskiy Palace](#-1430前到达俄罗斯国立博物馆-mikhaylovskiy-palace)
     - [百年书店, Дом Книги](#百年书店-дом-книги)
-    - [17:40前到达切斯玛教堂, Church of the Nativity of John the Baptist](#1740前到达切斯玛教堂-church-of-the-nativity-of-john-the-baptist)
-    - [House of Soviets](#house-of-soviets)
     - [23:59之前到达 Moskovsky Rail Terminal, 乘坐前往莫斯科的火车](#2359之前到达-moskovsky-rail-terminal-乘坐前往莫斯科的火车)
   - [10.6 周二, 莫斯科, 住莫斯科](#106-周二-莫斯科-住莫斯科)
     - [09:37 左右到达 Leningradsky railway terminal](#0937-左右到达-leningradsky-railway-terminal)
     - [塔什干地铁站, Taganskaya](#塔什干地铁站-taganskaya)
     - [科洛缅斯科耶庄园, Kolomenskoye Estate](#科洛缅斯科耶庄园-kolomenskoye-estate)
     - [🎫 察里津诺庄园, Tsaritsyno Estate](#-察里津诺庄园-tsaritsyno-estate)
-    - [吃麦当劳, Vkusno — i tochka](#吃麦当劳-vkusno--i-tochka)
     - [14:00 前往武装力量大教堂, The Cathedral of the Resurrection of Christ](#1400-前往武装力量大教堂-the-cathedral-of-the-resurrection-of-christ)
     - [记忆之路博物馆, Memory Road](#记忆之路博物馆-memory-road)
     - [哭泣母亲雕像, Матерям победителей](#哭泣母亲雕像-матерям-победителей)
@@ -200,11 +197,11 @@ SVO到市区的1195路车可以买双程票
 
 ### 斯莫尼主教座堂, [Smolny cathedral](https://yandex.com/maps/-/CXUyZH98)
 
-&nbsp;&nbsp;&nbsp;&nbsp;蓝白色巴洛克风格教堂，属于斯莫尔尼修道院建筑群，外观优雅，登顶可看城市景观。
+&nbsp;&nbsp;&nbsp;&nbsp;蓝白色巴洛克风格教堂，属于斯莫尔尼修道院建筑群，外观优雅
 
 &nbsp;&nbsp;&nbsp;&nbsp;周天7:00开门, 其余8:00开门
 
-&nbsp;&nbsp;&nbsp;&nbsp;距离市区较远, 公关交通需要较长步行
+&nbsp;&nbsp;&nbsp;&nbsp;距离市区较远, 公关交通需要较长时间步行
 
 ### 🎫 滴血大教堂, [Cathedral of the Resurrection of Christ Saved on Blood](https://yandex.com/maps/-/CXUuFXiP)
 
@@ -212,29 +209,21 @@ SVO到市区的1195路车可以买双程票
 
 &nbsp;&nbsp;&nbsp;&nbsp;门票800卢布
 
-### 🎫 14:00前到达俄罗斯国立博物馆, [Mikhaylovskiy Palace](https://yandex.com/maps/-/CXU5aC8~)
+### 米哈伊洛夫斯基花园, [Михайловский сад](https://yandex.com/maps/-/CXUzYWzr)
+
+&nbsp;&nbsp;&nbsp;&nbsp;紧邻俄罗斯国立博物馆的古典园林，布局规整、绿荫与水池相间，适合在参观博物馆前后散步休息。
+
+### 🎫 14:30前到达俄罗斯国立博物馆, [Mikhaylovskiy Palace](https://yandex.com/maps/-/CXU5aC8~)
 
 &nbsp;&nbsp;&nbsp;&nbsp;俄罗斯国立博物馆主馆，设在米哈伊洛夫宫，收藏俄罗斯本土艺术重要作品，尤其是巡回展览画派与肖像画。
 
 &nbsp;&nbsp;&nbsp;&nbsp;10:00到20:00, 周二闭馆
-
-### 米哈伊洛夫斯基花园, [Михайловский сад](https://yandex.com/maps/-/CXUzYWzr)
-
-&nbsp;&nbsp;&nbsp;&nbsp;紧邻俄罗斯国立博物馆的古典园林，布局规整、绿荫与水池相间，适合在参观博物馆前后散步休息。
 
 ### 百年书店, [Дом Книги](https://yandex.com/maps/-/CXEJYI7H)
 
 &nbsp;&nbsp;&nbsp;&nbsp;圣彼得堡著名书店，位于涅瓦大街上的历史建筑内，可买俄语书籍、纪念品，也适合看室内复古空间。
 
 &nbsp;&nbsp;&nbsp;&nbsp;截止2026年9月12日, 二楼厕所密码为3507#
-
-### 17:40前到达切斯玛教堂, [Church of the Nativity of John the Baptist](https://yandex.com/maps/-/CXUOzFo0)
-
-&nbsp;&nbsp;&nbsp;&nbsp;圣彼得堡南部的重要教堂，外观带哥特式与东正教混合风格，所在区域与切斯玛宫历史相关。
-
-### [House of Soviets](https://yandex.com/maps/-/CXUOzOKz)
-
-&nbsp;&nbsp;&nbsp;&nbsp;苏联时期的大型行政建筑，典型构成主义/斯大林式纪念性风格，是了解列宁格勒时期城市建筑的一处点位。
 
 ### 23:59之前到达 [Moskovsky Rail Terminal](https://yandex.com/maps/-/CXUO7GPQ), 乘坐前往莫斯科的火车
 
